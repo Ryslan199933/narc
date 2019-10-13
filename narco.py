@@ -1,4 +1,5 @@
 import telebot
+import random
 
 bot = TeleBot = telebot.TeleBot('959127416:AAFEzB9PUIv1D9X3g3L5LuqFOGc2Dq5Y6xw')
 
@@ -840,7 +841,7 @@ def send_text(message):
 "\n"
 "🏷QIWI кошелек: +79870541741\n"
 "\n"
-"💬Комментарий к платежу:1946294\n"
+        print("ghbdtn")
 "\n"
 "➖➖➖➖➖➖➖➖➖➖\n"
 "\n"
